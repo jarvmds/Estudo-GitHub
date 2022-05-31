@@ -4,5 +4,10 @@ var n2 = Convert.ToDouble (args[2]);
 
 if(operacao == "Somar")
 {
-    Console.WriteLine(n1+n2);
+    Console.WriteLine(n1 + n2);
+}
+
+if(operacao == "Subtrair")
+{
+    Console.WriteLine("A subtração resulta em " + (n1 - n2));
 }
