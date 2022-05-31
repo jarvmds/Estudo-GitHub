@@ -1,3 +1,6 @@
 # GitLab
 
-Calculadora com as operações somar, subtrair e multiplicar.
+Calculadora com as funções:
+- Somar
+- Subtrair
+- Multiplicar
